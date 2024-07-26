@@ -1,0 +1,26 @@
+.trend{
+    background-color: brown;
+    color:white;
+    text-align: center;
+}
+body{
+    background-color:rgb(234, 164, 234);
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+.main{
+    font-size: 32px;
+    color: white;
+}
+
+h5{
+    font-size: medium;
+    color: black;
+}
+
+.col-lg-4 p{
+    color: black;
+}
